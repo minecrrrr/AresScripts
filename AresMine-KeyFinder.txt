@@ -66,8 +66,8 @@ script.registerModule({
     description: "Автоматически ищет ключи на AresMine",
     visible: true
 }, (module) => {
-    const stopBaritone = () => sendChatMessage("%stop");
-    const startBaritone = () => sendChatMessage("%mine chest barrel");
+    const stopBaritone = () => sendChatMessage("#stop");
+    const startBaritone = () => sendChatMessage("#mine chest barrel");
     const feed = () => sendChatMessage("/feed")
     const rtp = () => sendChatMessage("/rtp s")
     
