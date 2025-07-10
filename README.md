@@ -42,5 +42,4 @@ Optional: Add repository link in your file/repo.
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## Credits
-[KeyFinder 1.0](https://github.com/yourname/AresScripts/AresMine-KeyFinder.txt)  
-`[!] Requires Cerberus rank for /feed functionality`
+[KeyFinder 1.0](https://github.com/minecrrrr/AresScripts/blob/main/AresMine-KeyFinder.txt)  
