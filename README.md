@@ -1,13 +1,13 @@
-# (RU) KeyFinder 1.0:
+# (RU) KeyFinder 1.1:
 🔹 Основан на **Baritone** – автоматически ищет сундуки и бочки с помощью встроенного ИИ.
 
 🔹 Скрипт написан для **LiquidBounce NextGen** – написан на **JavaScript** (GraalJS).
 
-🔹 **Автоматическая защита** – при низком HP (<10) **рандомно телепортируется**.
+🔹 **Автоматическая защита** – при низком HP (<10) происходит **выбранный сценарий** для данного события (none, /home, /rtp, /spawn).
 
 🔹 **Голод не помеха** – автоматически использует /feed раз в минуту (доступно от "Цербера").
 
-🔹 **Обнаружение игроков** – если рядом кто-то есть (в радиусе 128 блоков), скрипт **автоматически прописывает RTP**.
+🔹 **Обнаружение игроков** – если рядом кто-то есть (в выбранном радиусе), скрипт рандомно телепортируется.
 
 
 ## Разрешено использовать как референс 🚀
@@ -20,17 +20,17 @@
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 
-# (EN) KeyFinder 1.0:
+# (EN) KeyFinder 1.1:
 
 🔹 **Baritone-based** – Automatically searches chests and barrels using built-in pathfinding AI.
 
 🔹 Designed for **LiquidBounce NextGen** – Written in **JavaScript** (GraalJS).
 
-🔹 **Auto-protection** – **Randomly teleports** (/rtp s) when health drops below 10.
+🔹 **Auto-protection** – when HP is low (<10), triggers **selected action** (none, /home, /rtp, /spawn).
 
 🔹 **Hunger-proof** – Automatically uses /feed every minute (requires "Cerberus" donor rank).
 
-🔹 **Player detection** – If anyone is nearby (within 128 blocks), **triggers instant RTP**.
+🔹 **Player detection** – **teleports randomly** if players are nearby (within selected radius).
 
 
 ## Free to use as reference 🚀
@@ -42,4 +42,4 @@ Optional: Add repository link in your file/repo.
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## Credits
-[KeyFinder 1.0](https://github.com/minecrrrr/AresScripts/blob/main/AresMine-KeyFinder.txt)  
+[KeyFinder 1.1](https://github.com/minecrrrr/AresScripts/blob/main/AresMine-KeyFinder.js)  
